@@ -134,3 +134,4 @@ F:\ASP.NET\Fullstack\API\obj\Debug\net8.0\refint\API.dll
 F:\ASP.NET\Fullstack\API\obj\Debug\net8.0\API.pdb
 F:\ASP.NET\Fullstack\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 F:\ASP.NET\Fullstack\API\obj\Debug\net8.0\ref\API.dll
+F:\ASP.NET\Fullstack\API\obj\Debug\net8.0\API.sourcelink.json
